@@ -1,0 +1,19 @@
+{
+  "name": "base16-freeze-dark",
+  "theme": "syntax",
+  "version": "0.0.1",
+  "description": "Base16 dark theme with colder background and brighter colors",
+  "keywords": [
+    "base16",
+    "dark",
+    "syntax",
+    "cold",
+    "blue",
+    "bright"
+  ],
+  "repository": "https://github.com/SmebdyNbdy/base16-frozen-dark-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">0.49.0"
+  }
+}
